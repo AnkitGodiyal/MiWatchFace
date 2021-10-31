@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "725930847720",
+    "firebase_url": "https://miwatchfaces-default-rtdb.firebaseio.com",
+    "project_id": "miwatchfaces",
+    "storage_bucket": "miwatchfaces.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725930847720:android:63179ebaabee352eeb085d",
+        "android_client_info": {
+          "package_name": "com.ankit.miwatchface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725930847720-156sbt4md8gk9lhfatvn31h3uplmv173.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ankit.miwatchface",
+            "certificate_hash": "b928110a208829299eea249ebb68083bbb91f093"
+          }
+        },
+        {
+          "client_id": "725930847720-grvfp7ils5bp2frbsf7gcga1ccaqaciu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRj0VHTl3zqV4XMMxZ2M2eZ-W0QxXw24k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725930847720-grvfp7ils5bp2frbsf7gcga1ccaqaciu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
