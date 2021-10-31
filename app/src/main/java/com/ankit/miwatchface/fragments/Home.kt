@@ -56,6 +56,8 @@ class Home : Fragment() , WfContract {
         return activeNetworkInfo != null && activeNetworkInfo.isConnected
     }
 
+
+
     private fun initRecyclerView() {
         rvWatchFace.adapter = watchFaceAdapter
         watchFaceViewModel.watchFaceListLiveData.observe(
